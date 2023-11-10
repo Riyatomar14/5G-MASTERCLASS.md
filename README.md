@@ -11,4 +11,18 @@ If oulets or design remain same it become easier.
 
 So, at this way to solve the problem ITU [international telecommunication union] comes in.
 
+**ITU**
+
+![Screenshot 2023-11-10 072822](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/422ebff7-d480-4a6c-b1be-59821818becd)
+
+ITU-T: It is responsible for telecommunication standardization ; coordinate different standards for telecommunication and information technology ex : cyber security , machine learning etc
+
+ITU-R: It is responsible for radio communication (5G) ; have a role in managing how the international radio frequency spectrum and satellite orbitory resources are used.
+
+ITU-D:It is responsible for international telecommunication development sector. responsible for creating policies and regulations and providing education on the topic of telecommunication to developing nations.
+
+****
+
+
+
 
