@@ -25,6 +25,7 @@ ITU-D:It is responsible for international telecommunication development sector. 
 
 ![Screenshot 2023-11-10 071223](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/32139e5f-9582-4a7b-94d2-60c85263f431)
 
+![Screenshot 2023-11-10 071246](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/8fe07ef2-b191-4fa3-b4bc-e987ea92c2a1)
 
 
 
