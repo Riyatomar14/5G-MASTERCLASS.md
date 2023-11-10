@@ -21,11 +21,13 @@ ITU-R: It is responsible for radio communication (5G) ; have a role in managing 
 
 ITU-D:It is responsible for international telecommunication development sector. responsible for creating policies and regulations and providing education on the topic of telecommunication to developing nations.
 
-****
-
 ![Screenshot 2023-11-10 071223](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/32139e5f-9582-4a7b-94d2-60c85263f431)
 
 ![Screenshot 2023-11-10 071246](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/8fe07ef2-b191-4fa3-b4bc-e987ea92c2a1)
+
+![Screenshot 2023-11-10 071308](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/7e58907a-f9d6-4cf4-8b10-1d583c37bfbf)
+
+
 
 
 
