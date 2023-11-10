@@ -47,4 +47,21 @@ TSG SA[SERIVICE AND SYSTEMS ASPECTS]: RESPONSIBLE FOR MULIMEDIA ASPECTS AND MANA
 
 ![Screenshot 2023-11-10 162605](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/47256696-4d65-41f3-94ae-2192dc8e90ed)
 
+**5G SYSTEM OF NETWORKING**
+![Screenshot 2023-11-10 172253](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/15feea8f-4312-435c-92b3-749f3d31597b)
+
+**KEYWORDS FUNCTIONS**
+
+1.**AMF**:(ACCESS AND MOBILITY FUNCTION)-MOBILITY MANAGEMENT,REGISTRATION
+
+2.**SMF**:(SESSION MANAGEMENT FUNCTION)- RESPONSIBLE FOR SESSION MOBILE
+
+3.**AUSF**:( Authentication Server Function)-use for security
+
+4.**UDM**:(user subscription data)-it is work under access and mobility function.
+
+5.**PCF**:session management policy and non-session management policies,charging.
+
+6.**UPF**:(user plane function)-carries the network user traffic. 
+
 
