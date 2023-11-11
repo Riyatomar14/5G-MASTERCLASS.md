@@ -106,6 +106,8 @@ PDCP : ip header compression ; ciphering and integrity protection of info so no 
 
 SDAP : Mapping the QoS bearer into the right radio bearer according to the QoS requirements.
 
+![Screenshot 2023-11-11 111443](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/7b2dcf86-222c-45be-9263-f8e6c5806d4a)
+
 
 ***Images Used Here Are Only For Educational Purpose.***</br>
 **NO COPYRIGHT INFRINGEMENT INCLUDED.**
