@@ -88,11 +88,23 @@ TSG SA[SERIVICE AND SYSTEMS ASPECTS]: RESPONSIBLE FOR MULIMEDIA ASPECTS AND MANA
 
 ![Screenshot 2023-11-11 105153](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/d098232f-983c-46dd-91eb-96f9afc3038a)
 
-user plane protocol stack : supports carrying user data between different application in the ue and in the network
+user plane protocol stack : supports carrying user data between different application in the ue and in the network.
 
-control plane protocol stack : can be seen as carrying the control info between the UE and the gNodeB or the core network
+control plane protocol stack : can be seen as carrying the control info between the UE and the gNodeB or the core networK.
 
 **USER PLANE STACK**
+
+![Screenshot 2023-11-11 111136](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/73a6e8e3-3a44-430e-89c3-81950504bb4e)
+
+PHY : efficient wireless communication , bits and bytes transmitted in wireless channels.
+
+MAC : retransmission (looking for errors) , multiplexing.demultiplexing , scheduling.
+
+RLC : robust error detection scheme ARQ , packets broken down into smaller packets called segmentation , puts them back together in reassembling side.
+
+PDCP : ip header compression ; ciphering and integrity protection of info so no one can eaves drop ; duplicate removal.
+
+SDAP : Mapping the QoS bearer into the right radio bearer according to the QoS requirements.
 
 
 ***Images Used Here Are Only For Educational Purpose.***</br>
