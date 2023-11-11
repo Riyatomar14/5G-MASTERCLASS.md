@@ -76,6 +76,8 @@ TSG SA[SERIVICE AND SYSTEMS ASPECTS]: RESPONSIBLE FOR MULIMEDIA ASPECTS AND MANA
 
 ![Screenshot 2023-11-11 105102](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/213ce5fa-0676-4469-b923-73a963f8846b)
 
+![Screenshot 2023-11-11 105130](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/f2f85339-b63c-4c2e-a7c8-615d5c7d6581)
+
 
 ***Images Used Here Are Only For Educational Purpose.***</br>
 **NO COPYRIGHT INFRINGEMENT INCLUDED.**
