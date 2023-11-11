@@ -110,6 +110,9 @@ SDAP : Mapping the QoS bearer into the right radio bearer according to the QoS r
 
 ![Screenshot 2023-11-11 111458](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/1c2c36ec-8a14-4bd0-9896-b61a757c0599)
 
+![Screenshot 2023-11-11 111512](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/e0511343-0339-4f84-862c-e75aafe3a71f)
+
+
 
 ***Images Used Here Are Only For Educational Purpose.***</br>
 **NO COPYRIGHT INFRINGEMENT INCLUDED.**
