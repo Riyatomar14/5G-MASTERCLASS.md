@@ -64,4 +64,5 @@ TSG SA[SERIVICE AND SYSTEMS ASPECTS]: RESPONSIBLE FOR MULIMEDIA ASPECTS AND MANA
 
 6.**UPF**:(user plane function)-carries the network user traffic. 
 
-
+***Images Used Here Are Only For Educational Purpose.***</br>
+**NO COPYRIGHT INFRINGEMENT INCLUDED.**
