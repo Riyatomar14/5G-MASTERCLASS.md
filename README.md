@@ -168,5 +168,99 @@ responsible for setting up radio bearers.
 
 ![Screenshot 2023-11-14 152223](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/7260db5b-8a70-49bd-be85-0e73ca869a0f)
 
+
+![Screenshot 2023-11-14 153616](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/2e922897-d7e3-4cc7-a0f3-1797730c29d0)
+
+![Screenshot 2023-11-14 153627](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/23c3cbdb-f8cf-4777-94cb-5beda45485d8)
+
+![Screenshot 2023-11-14 153637](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/c40ca39b-3577-4003-99da-1d544e6a6388)
+
+![Screenshot 2023-11-14 153646](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/1355df1a-110a-49b3-a9ed-93753c713d1f)
+
+![Screenshot 2023-11-14 153656](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/bdd465cb-b40a-4871-bc3c-43ea074bde53)
+
+![Screenshot 2023-11-14 153703](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/304939d5-5e86-458e-af66-033b6473950c)
+
+![Screenshot 2023-11-14 153712](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/2a6eb3d5-5804-455b-83e3-a084aeabeb14)
+
+![Screenshot 2023-11-14 153721](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/d7ebb5c4-2401-4b75-a5ad-4a337812057a)
+
+![Screenshot 2023-11-14 153748](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/8e3b4c86-3574-412f-a7dd-ae25ad42b5bb)
+
+![Screenshot 2023-11-14 153757](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/a7d147a5-b8d5-4841-a02e-a197a39cb4aa)
+
+![Screenshot 2023-11-14 153807](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/b55da2d0-53e0-4fdc-aff6-dfa15bf3ef52)
+
+![Screenshot 2023-11-14 153815](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/612f4ff9-d631-4329-8cf8-be4a89d645da)
+
+![Screenshot 2023-11-14 153823](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/2cdf01f2-78fc-49fd-bb43-a0fb7af96d06)
+
+![Screenshot 2023-11-14 153831](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/88253e55-640c-44b1-9aeb-8f4bb85541a5)
+
+![Screenshot 2023-11-14 153840](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/2b3ba4fe-166f-4478-b17c-c05f513d8c57)
+
+![Screenshot 2023-11-14 153850](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/e82ae2e8-451f-4214-9a01-d519c59b5f24)
+
+![Screenshot 2023-11-14 153906](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/82ce74af-571b-43d1-8a2c-771d957749e2)
+
+![Screenshot 2023-11-14 153919](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/552fc02f-8cfc-4210-a8b1-1b0668e8d487)
+
+![Screenshot 2023-11-14 153939](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/cb2ea8ed-a2df-4745-9918-2f837f536fee)
+
+![Screenshot 2023-11-14 153949](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/78d941b5-f489-4a4d-9bf1-9369cfb8d670)
+
+![Screenshot 2023-11-14 154005](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/3287b05a-f4ea-4460-9a0c-ef34ac0caa2b)
+
+![Screenshot 2023-11-14 154015](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/6f47ed67-1b66-4dfd-82a3-e648cb0bfed4)
+
+![Screenshot 2023-11-14 154025](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/106874b8-e28f-4eb1-8c1e-9e2e889fe4d4)
+
+![Screenshot 2023-11-14 154034](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/4f4bdf40-f79a-431b-a5b7-68a3803d616c)
+
+![Screenshot 2023-11-14 154042](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/7b112082-9356-4b58-bb0c-3f74f6306ba4)
+
+![Screenshot 2023-11-14 154054](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/0511691a-39f6-4040-91f3-4a8e1488c184)
+
+![Screenshot 2023-11-14 154103](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/4f632945-a605-4424-94a7-457a9e3ca8c2)
+
+![Screenshot 2023-11-14 154110](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/0919d2db-a7c3-4012-b1ff-f84e0c36d5b1)
+
+![Screenshot 2023-11-14 154121](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/bff21751-c937-4d47-941e-eb27305992eb)
+
+![Screenshot 2023-11-14 154129](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/8a6b05f1-10d3-470e-add8-53b4f45067f7)
+
+![Screenshot 2023-11-14 154139](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/ff503ba7-a832-4e3e-bc5c-797223a0e901)
+
+![Screenshot 2023-11-14 154147](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/95249549-cdcc-4bd1-8320-40c7be029149)
+
+![Screenshot 2023-11-14 154215](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/4eef2c37-fb4f-4f35-bc5f-448d258d6f00)
+
+![Screenshot 2023-11-14 154227](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/9cef2543-d5d4-4b5c-86ae-dc292ff1f7e8)
+
+![Screenshot 2023-11-14 154243](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/0e292fc2-d11c-4168-a553-204f951bf882)
+
+![Screenshot 2023-11-14 154252](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/c84d9e4a-261f-461d-9246-13432ecf1050)
+
+![Screenshot 2023-11-14 154303](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/a7d72ffd-c364-4cdd-83eb-eb8999974688)
+
+![Screenshot 2023-11-14 154318](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/2c76889b-56d4-4f4f-acfc-38bc96c1cc33)
+
+![Screenshot 2023-11-14 154326](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/b52e00e6-3e1a-460f-9ac6-9a8530613591)
+
+![Screenshot 2023-11-14 154335](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/1145289f-0fc8-40d7-932f-70613deb312a)
+
+![Screenshot 2023-11-14 154359](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/1826b27c-76a5-414d-b2c6-7892f29c6d95)
+
+![Screenshot 2023-11-14 154412](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/1fa5d8eb-145a-4fcd-a397-2046c54b1d79)
+
+![Screenshot 2023-11-14 154419](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/e8341d91-cda7-4316-a588-d7459d1a2cc7)
+
+![Screenshot 2023-11-14 154427](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/1d7b0c28-ea7e-455f-a9b2-bbab6b59f37b)
+
+![Screenshot 2023-11-14 154440](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/db6820d9-8955-447d-905c-5f3259971c4c)
+
+![Screenshot 2023-11-14 154452](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/3db4b0b0-56d6-4773-b299-3298c24c8baf)
+
+
 ***Images Used Here Are Only For Educational Purpose.***</br>
 **NO COPYRIGHT INFRINGEMENT INCLUDED.**
