@@ -122,5 +122,20 @@ RRC (RADIO RESOURCE CONTROL) : (RRC gNodeB <==> RRC UE) responsible for RAN rela
 
 responsible for setting up radio bearers.
 
+![Screenshot 2023-11-14 150652](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/f15aee7f-78c9-4566-b279-3e9b8035c03d)
+
+![Screenshot 2023-11-14 150725](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/897f6cdc-ac06-40d8-bafb-dc053db322af)
+
+![Screenshot 2023-11-14 150743](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/88f40c98-63c0-4eee-b4fc-654edbec7928)
+
+![Screenshot 2023-11-14 150810](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/e3512895-4db2-467e-8b9f-483b65f15493)
+
+![Screenshot 2023-11-14 150826](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/b6187612-9d85-46c5-9034-d6e2597b9dde)
+
+![Screenshot 2023-11-14 150710](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/3e9ec5c1-2d55-4c1e-a182-84ee39e57d36)
+
+![Screenshot 2023-11-14 150844](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/219713f0-119d-4ecd-b7a7-9dca54da899f)
+
+
 ***Images Used Here Are Only For Educational Purpose.***</br>
 **NO COPYRIGHT INFRINGEMENT INCLUDED.**
