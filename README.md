@@ -136,6 +136,37 @@ responsible for setting up radio bearers.
 
 ![Screenshot 2023-11-14 150844](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/219713f0-119d-4ecd-b7a7-9dca54da899f)
 
+![Screenshot 2023-11-14 151758](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/c288811e-6121-4b54-a504-d88686a5d0f6)
+
+![Screenshot 2023-11-14 151839](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/3a5b2bf9-d7e4-4f06-9b19-d44d1dae48c0)
+
+![Screenshot 2023-11-14 151851](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/0a452d19-401b-4757-99b6-a9ebf6be44a9)
+
+![Screenshot 2023-11-14 151910](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/df3dccfb-aa52-45b9-a6e9-0e61b7322500)
+
+![Screenshot 2023-11-14 151920](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/ff9f7f16-e6b4-4512-88df-364891622426)
+
+![Screenshot 2023-11-14 152014](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/63d146cc-27a1-467f-81d1-0b81960831a7)
+
+![Screenshot 2023-11-14 152042](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/d98a64c5-681e-4369-ac54-63a37a45db3d)
+
+![Screenshot 2023-11-14 152053](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/8eba0e56-a6e8-4968-ae74-8ac2cb99bae9)
+
+![Screenshot 2023-11-14 152101](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/2e2f0c76-3103-4cec-a1ba-e48ea3d0c082)
+
+![Screenshot 2023-11-14 152112](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/a040b211-6896-4a8a-be11-091ee91f9753)
+
+![Screenshot 2023-11-14 152121](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/4afde04f-db80-4986-add8-9664d48282e5)
+
+![Screenshot 2023-11-14 152142](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/39970302-3dee-43e6-a8e7-596f4bb15955)
+
+![Screenshot 2023-11-14 152156](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/e532b2df-6e0a-49ef-a87d-215f705ad79e)
+
+![Screenshot 2023-11-14 152206](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/735d4b5e-0ae3-40f7-9b2e-becb0d6b43b9)
+
+![Screenshot 2023-11-14 152215](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/3929275d-f15e-4326-a415-5b6919cd69e2)
+
+![Screenshot 2023-11-14 152223](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/7260db5b-8a70-49bd-be85-0e73ca869a0f)
 
 ***Images Used Here Are Only For Educational Purpose.***</br>
 **NO COPYRIGHT INFRINGEMENT INCLUDED.**
