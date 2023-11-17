@@ -112,13 +112,19 @@ SDAP : Mapping the QoS bearer into the right radio bearer according to the QoS r
 
 ![Screenshot 2023-11-11 111458](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/1c2c36ec-8a14-4bd0-9896-b61a757c0599)
 
-**CONTROL PLANE STACK**
+**CONTROL PLANE PROTOCOL STACK**
 
 NAS (NON-ACCESS STRATUM) : (core network <==> UE) authentication , security ,idle mode procedure.
 
 RRC (RADIO RESOURCE CONTROL) : (RRC gNodeB <==> RRC UE) responsible for RAN related control plane procedures like broadcasting systum info which helps the device learn the essential parameters of the cell ,responsible for setting up radio bearers.
 
+**SDAP(Service data adaptation protocol)**
+
+~ TYPES OF TRAFFIC
+
 ![Screenshot 2023-11-14 150652](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/f15aee7f-78c9-4566-b279-3e9b8035c03d)
+
+~QoS FLOWS (QUALITY OF SERVICE)
 
 ![Screenshot 2023-11-14 150725](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/897f6cdc-ac06-40d8-bafb-dc053db322af)
 
