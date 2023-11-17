@@ -374,13 +374,13 @@ SIB 1 also called remaining MIB
 
 ![Screenshot 2023-11-16 200038](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/d27fe69e-162b-4a68-9e4d-1ed21f7064ed)
 
-## RANDOM ACCESS PROCEDURE
-
 ![Screenshot 2023-11-16 200051](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/0ee09efd-0771-4040-82bb-04795475a222)
 
-## contention based random access
+## RANDOM ACCESS PROCEDURE
 
 ![Screenshot 2023-11-16 200107](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/ba6335d0-c59a-41d6-be17-c255487ef87d)
+
+## contention based random access
 
 ![Screenshot 2023-11-16 200117](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/3ae34341-9d89-410c-ba7a-72d7bab7e9af)
 
@@ -396,19 +396,37 @@ SIB 1 also called remaining MIB
 
 ![Screenshot 2023-11-16 200211](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/658c8311-30bb-47ac-8400-df9f751f8eb6)
 
+## IDENTIFIERS
+
 ![Screenshot 2023-11-16 200232](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/3abc0002-f02b-45a8-a71f-14563406e16c)
 
 ![Screenshot 2023-11-16 200245](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/06822492-6255-4670-a7b8-2636568410b4)
 
 ![Screenshot 2023-11-16 200254](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/219f08a8-e911-4c44-8104-afc127837ed3)
 
+~MCC-which country subsciber belongs to
+
+~MNC-defines exact operator in the country
+
+~MSIN-defines the actual subsciber within operator within the country
+
 ![Screenshot 2023-11-16 200301](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/d93bddff-b5fe-432f-a59b-9eef8883007e)
 
 ![Screenshot 2023-11-16 200309](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/906adfe0-1dc5-4284-9f5e-2eb5e695e2c1)
+## SERVICE BASED ARCHITECTURE
+~ Monolathic-software applications built in one bulky entity ; single stone as a solution
 
+~ Microservices application brocken down into different services , each service performes a very simple operation and different services can communicate with each other using communication simple interface
+
+   -flexible deployment
+   
+   -new sevices can be added w//o hinderance
+   
 ![Screenshot 2023-11-16 200326](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/18b51b2f-3d0f-41d4-9520-49f48f3d14a3)
 
 ![Screenshot 2023-11-16 205620](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/2225ac06-63c4-42a4-b6d9-db4909ed328e)
+
+~ A network function can be considered as a self contained software module.
 
 ![Screenshot 2023-11-16 205637](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/7ebf40a3-c97d-41a4-99e1-548f9feb016f)
 
