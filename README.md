@@ -183,6 +183,7 @@ RRC (RADIO RESOURCE CONTROL) : (RRC gNodeB <==> RRC UE) responsible for RAN rela
 
 ~pcdp check out the packets are in sequence or not.(sequence in sequence out)
 
+## RLC
 ![Screenshot 2023-11-14 152014](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/63d146cc-27a1-467f-81d1-0b81960831a7)
 
 
