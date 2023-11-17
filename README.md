@@ -64,7 +64,7 @@ TSG SA[SERIVICE AND SYSTEMS ASPECTS]: RESPONSIBLE FOR MULIMEDIA ASPECTS AND MANA
 
 6.**UPF**:(user plane function)-carries the network user traffic. 
 
-**how to deploy 5g**
+***options to deploy 5g**
 
 ![Screenshot 2023-11-11 104925](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/1b084022-e151-4bb8-98e7-089105ca1fad)
 
