@@ -128,11 +128,26 @@ RRC (RADIO RESOURCE CONTROL) : (RRC gNodeB <==> RRC UE) responsible for RAN rela
 
 ![Screenshot 2023-11-14 150725](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/897f6cdc-ac06-40d8-bafb-dc053db322af)
 
+ ## QoS flow types
+
+ ~ GBR- Guranteed bit rate QoS flow
+ 
+~ Non- GBR- Used for traffic that are more bursty in nature
+
+~ Delay critical- for self driving cars and remote control devices
+
 ![Screenshot 2023-11-14 150743](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/88f40c98-63c0-4eee-b4fc-654edbec7928)
 
 ![Screenshot 2023-11-14 150810](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/e3512895-4db2-467e-8b9f-483b65f15493)
 
+## Uplink QoS
+~ Reflective mapping- When the device use same QoS flow and radio bearer as in downlink
+
+~ Explicit mapping- When the devie is configured to use specific QoS flow and uplink bearer using RRC signaling
+
 ![Screenshot 2023-11-14 150826](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/b6187612-9d85-46c5-9034-d6e2597b9dde)
+
+## PDCP(PACKET DATA CONVERGENCE PROTOCOL)
 
 ![Screenshot 2023-11-14 150710](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/3e9ec5c1-2d55-4c1e-a182-84ee39e57d36)
 
