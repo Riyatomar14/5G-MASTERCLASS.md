@@ -348,13 +348,13 @@ note point-Formula to calculate, SCS = 15 x 2μ kHz(where μ = 0, 1, 2, 3, 4)
 
 ![Screenshot 2023-11-14 154427](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/1d7b0c28-ea7e-455f-a9b2-bbab6b59f37b)
 
-## INTIAL ACCESS
-
 ![Screenshot 2023-11-14 154440](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/db6820d9-8955-447d-905c-5f3259971c4c)
 
 ![Screenshot 2023-11-14 154452](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/3db4b0b0-56d6-4773-b299-3298c24c8baf)
 
 ![Screenshot 2023-11-16 195931](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/1179ba4f-2311-4027-8475-7d1e637fe617)
+
+## INTIAL ACCESS
 
 ![Screenshot 2023-11-16 195943](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/e67ccaa9-6f58-4599-bd59-9c6a9fc4e3ad)
 
