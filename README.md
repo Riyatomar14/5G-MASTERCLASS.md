@@ -161,11 +161,28 @@ RRC (RADIO RESOURCE CONTROL) : (RRC gNodeB <==> RRC UE) responsible for RAN rela
 
 ![Screenshot 2023-11-14 151851](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/0a452d19-401b-4757-99b6-a9ebf6be44a9)
 
+~for small packets , the size of header remains same as long as data packets.
+
+~PDCP performs header compression to reduce header length to a couple of bytes for wireless trasmission.
+
+~Decompression of header size before it is transmitted over IP protocols in the wired network.
+
+~The header compression scheme is based on robust header compression (ROHC) protocol
+
 ![Screenshot 2023-11-14 151910](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/df3dccfb-aa52-45b9-a6e9-0e61b7322500)
 
+~ taking unencrypted data and encrypting it into cypher text using an encryption key.
+
 ![Screenshot 2023-11-14 151920](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/ff9f7f16-e6b4-4512-88df-364891622426)
+~To achieve more data rate , duplication can be used to send the exact same data through two different radio bearers to improve reliability.
+
+~This way even if one fails , UE can recieve data from the other bearer.
+
+~In recieving side PDCP is responsible for discarding the duplicates and picking the anaronious packet { called selection diversity } if there is an error in one of the radio bearers.
 
 ![Screenshot 2023-11-14 152014](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/63d146cc-27a1-467f-81d1-0b81960831a7)
+
+~pcdp check out the packets are in sequence or not.(sequence in sequence out)
 
 ![Screenshot 2023-11-14 152042](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/d98a64c5-681e-4369-ac54-63a37a45db3d)
 
