@@ -476,7 +476,11 @@ SIB 1 also called remaining MIB
 
 ![Screenshot 2023-11-16 210455](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/0cf76729-9379-483d-8fc4-64efccaddd65)
 
+## UPF
+
 ![Screenshot 2023-11-16 210528](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/e71c8149-171d-450b-a184-98cbe0d3e5ac)
+
+## UDM
 
 ![Screenshot 2023-11-16 210536](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/a3661c6c-0e43-4963-b2c2-7bcc951814dc)
 
