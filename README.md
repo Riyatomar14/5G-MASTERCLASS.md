@@ -338,6 +338,8 @@ note point-Formula to calculate, SCS = 15 x 2μ kHz(where μ = 0, 1, 2, 3, 4)
 
 ~ can begin in any symbol boundary instead of slot boundary.
 
+## NAS AND RRC
+
 ![Screenshot 2023-11-14 154359](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/1826b27c-76a5-414d-b2c6-7892f29c6d95)
 
 ![Screenshot 2023-11-14 154412](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/1fa5d8eb-145a-4fcd-a397-2046c54b1d79)
@@ -346,20 +348,28 @@ note point-Formula to calculate, SCS = 15 x 2μ kHz(where μ = 0, 1, 2, 3, 4)
 
 ![Screenshot 2023-11-14 154427](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/1d7b0c28-ea7e-455f-a9b2-bbab6b59f37b)
 
+## INTIAL ACCESS
+
 ![Screenshot 2023-11-14 154440](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/db6820d9-8955-447d-905c-5f3259971c4c)
 
 ![Screenshot 2023-11-14 154452](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/3db4b0b0-56d6-4773-b299-3298c24c8baf)
-
 
 ![Screenshot 2023-11-16 195931](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/1179ba4f-2311-4027-8475-7d1e637fe617)
 
 ![Screenshot 2023-11-16 195943](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/e67ccaa9-6f58-4599-bd59-9c6a9fc4e3ad)
 
+it carries the master info block it includes a limited no. of the most essential and most frequent transmited parameters that are necessary to auire other information from the cell .
+This includes MIB and SIB 1 also called remaining MIB
+
 ![Screenshot 2023-11-16 195955](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/4b70123e-9d0f-4d3c-8376-480de35e8f68)
 
 ![Screenshot 2023-11-16 200004](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/2681270f-97f9-4958-af4c-ac62006a5639)
 
+## RANDOM ACCESS PROCEDURE
+
 ![Screenshot 2023-11-16 200013](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/3e316c86-b3c2-47db-a2ed-7f0a79ad9152)
+
+## contention based random access
 
 ![Screenshot 2023-11-16 200023](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/36672634-d417-43be-83e1-368b6b9940d4)
 
