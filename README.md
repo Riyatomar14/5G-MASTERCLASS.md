@@ -112,8 +112,6 @@ SDAP : Mapping the QoS bearer into the right radio bearer according to the QoS r
 
 ![Screenshot 2023-11-11 111458](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/1c2c36ec-8a14-4bd0-9896-b61a757c0599)
 
-![Screenshot 2023-11-11 111536](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/8e5f202e-d64d-4b9f-b482-f1f8aafa67d1)
-
 **CONTROL PLANE STACK**
 
 NAS (NON-ACCESS STRATUM) : (core network <==> UE) authentication , security ,idle mode procedure.
