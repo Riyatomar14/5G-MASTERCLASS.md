@@ -278,24 +278,6 @@ Adpatation is also controlled by scheduler.
 
 ![Screenshot 2023-11-14 154015](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/6f47ed67-1b66-4dfd-82a3-e648cb0bfed4)
 
-## PHYSICAL LAYER STRUCTURE
-
-1.Radio frames-radio frames used in transferring the data (uplink/downlink) in the air. Its duration is 10 milliseconds.
-
-2.sub-frames-one radio frames of 10ms is divided 10 sub-frames which is of length 1 millisecond.Subframes inside a radio frame are serialized as SF0, SF1, SF2, SF3, …., and SF9.
-
-3.Resource grid- A subframe is made up of a Resource Grid which is a (m x n) matrix of Resource Elements where ‘m’ defines the number of Sub-carriers and ‘n’ defines the number of OFDM(orthogonal frequency division mutiplexer) Symbols.
-
-4.SCS(SubCarrier Spacing)-subframe is further divided into slots.these slots is varies in NR, depending upon SCS.Slot length gets shorter as Subcarrier
-
-Spacing gets wider.
-
-note point-Formula to calculate, SCS = 15 x 2μ kHz(where μ = 0, 1, 2, 3, 4)
-
-5.Resource block-resource block,in which a slot is divided into 12 sub carrier.
-
-6.Slot-It is divided into into 2 parts on the basis of number of OFDM. The number of OFDM Symbols varies with slot configuration, and the type of Cyclic.
-
 ![Screenshot 2023-11-14 154025](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/106874b8-e28f-4eb1-8c1e-9e2e889fe4d4)
 
 ![Screenshot 2023-11-14 154034](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/4f4bdf40-f79a-431b-a5b7-68a3803d616c)
@@ -325,6 +307,24 @@ note point-Formula to calculate, SCS = 15 x 2μ kHz(where μ = 0, 1, 2, 3, 4)
 ![Screenshot 2023-11-14 154252](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/c84d9e4a-261f-461d-9246-13432ecf1050)
 
 ![Screenshot 2023-11-14 154303](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/a7d72ffd-c364-4cdd-83eb-eb8999974688)
+
+## PHYSICAL LAYER STRUCTURE
+
+1.Radio frames-radio frames used in transferring the data (uplink/downlink) in the air. Its duration is 10 milliseconds.
+
+2.sub-frames-one radio frames of 10ms is divided 10 sub-frames which is of length 1 millisecond.Subframes inside a radio frame are serialized as SF0, SF1, SF2, SF3, …., and SF9.
+
+3.Resource grid- A subframe is made up of a Resource Grid which is a (m x n) matrix of Resource Elements where ‘m’ defines the number of Sub-carriers and ‘n’ defines the number of OFDM(orthogonal frequency division mutiplexer) Symbols.
+
+4.SCS(SubCarrier Spacing)-subframe is further divided into slots.these slots is varies in NR, depending upon SCS.Slot length gets shorter as Subcarrier
+
+Spacing gets wider.
+
+note point-Formula to calculate, SCS = 15 x 2μ kHz(where μ = 0, 1, 2, 3, 4)
+
+5.Resource block-resource block,in which a slot is divided into 12 sub carrier.
+
+6.Slot-It is divided into into 2 parts on the basis of number of OFDM. The number of OFDM Symbols varies with slot configuration, and the type of Cyclic.
 
 ![Screenshot 2023-11-14 154318](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/2c76889b-56d4-4f4f-acfc-38bc96c1cc33)
 
