@@ -218,13 +218,18 @@ RRC (RADIO RESOURCE CONTROL) : (RRC gNodeB <==> RRC UE) responsible for RAN rela
 ## MAC(MEDIUM ACCESS CONTROL)
 
 ![Screenshot 2023-11-14 153616](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/2e922897-d7e3-4cc7-a0f3-1797730c29d0)
-MAC provides services to RLC trough logical channels
-MAC layer uses services from physical layer in the form of transport layer
+
+~MAC provides services to RLC trough logical channels.
+
+~MAC layer uses services from physical layer in the form of transport layer.
+
 ![Screenshot 2023-11-14 153627](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/23c3cbdb-f8cf-4777-94cb-5beda45485d8)
-logical channel : is defined by the type of information it carries and generally classified as a control channel used for transmission of control and config information necessary for operating an NR system or as a traffic channel used for the user data .
-transfer channel : defined by how and what characteristics the information is transmitted over the radio interface
 
 ![Screenshot 2023-11-14 153637](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/c40ca39b-3577-4003-99da-1d544e6a6388)
+
+~logical channel : is defined by the type of information it carries and generally classified as a control channel used for transmission of control and config information necessary for operating an NR system or as a traffic channel used for the user data.
+
+~transport channel : defined by how and what characteristics the information is transmitted over the radio interface.
 
 ![Screenshot 2023-11-14 153646](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/1355df1a-110a-49b3-a9ed-93753c713d1f)
 
