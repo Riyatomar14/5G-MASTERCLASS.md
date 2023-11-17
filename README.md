@@ -489,6 +489,29 @@ SIB 1 also called remaining MIB
 
 ![Screenshot 2023-11-16 210621](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/b87f602f-3994-4ff3-ba65-77e51f22b886)
 
+## 1. Registration Procedure
+
+~INITIAL REGISTRATION-power on initiation
+
+~PERIODIC REGISTRATION-to make sure device has not ran out of battery / broken
+
+~MOBILITY REGISTRATION-if device moving to new location
+
+~EMERGENCY REGISTRATION-where the device likes to access emergency calls
+
+![Screenshot 2023-11-17 160230](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/269a79b0-a614-434a-acb1-5e00437c369f)
+
+![Screenshot 2023-11-17 163411](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/50422af3-3e8b-4002-8975-aebe02ce7858)
+
+## Deregistration Procedure
+
+![Screenshot 2023-11-17 164021](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/ac0ace23-5d4d-4f2d-a4d0-7d38a32aaaf0)
+
+## ESTABLISH PDU SESSION
+![Screenshot 2023-11-17 164627](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/a80e71e1-689a-4c67-91d5-eec815f19304)
+
+
+
 
 ***Images Used Here Are Only For Educational Purpose.***</br>
 **NO COPYRIGHT INFRINGEMENT INCLUDED.**
