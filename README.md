@@ -352,14 +352,15 @@ note point-Formula to calculate, SCS = 15 x 2μ kHz(where μ = 0, 1, 2, 3, 4)
 
 ![Screenshot 2023-11-14 154452](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/3db4b0b0-56d6-4773-b299-3298c24c8baf)
 
+cell search : procedure by which a UE acquires time and freq synchrinization with a cell and detects the cell ID of that cell
+
 ![Screenshot 2023-11-16 195931](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/1179ba4f-2311-4027-8475-7d1e637fe617)
 
 ## INTIAL ACCESS
-
+ 
 ![Screenshot 2023-11-16 195943](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/e67ccaa9-6f58-4599-bd59-9c6a9fc4e3ad)
 
-it carries the master info block it includes a limited no. of the most essential and most frequent transmited parameters that are necessary to auire other information from the cell .
-This includes MIB and SIB 1 also called remaining MIB
+SIB 1 also called remaining MIB
 
 ![Screenshot 2023-11-16 195955](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/4b70123e-9d0f-4d3c-8376-480de35e8f68)
 
