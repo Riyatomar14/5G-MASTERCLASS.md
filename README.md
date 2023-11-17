@@ -360,23 +360,27 @@ cell search : procedure by which a UE acquires time and freq synchrinization wit
  
 ![Screenshot 2023-11-16 195943](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/e67ccaa9-6f58-4599-bd59-9c6a9fc4e3ad)
 
-SIB 1 also called remaining MIB
-
 ![Screenshot 2023-11-16 195955](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/4b70123e-9d0f-4d3c-8376-480de35e8f68)
 
 ![Screenshot 2023-11-16 200004](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/2681270f-97f9-4958-af4c-ac62006a5639)
 
-## RANDOM ACCESS PROCEDURE
+
 
 ![Screenshot 2023-11-16 200013](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/3e316c86-b3c2-47db-a2ed-7f0a79ad9152)
 
-## contention based random access
+SIB 1 also called remaining MIB
+
+
 
 ![Screenshot 2023-11-16 200023](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/36672634-d417-43be-83e1-368b6b9940d4)
 
 ![Screenshot 2023-11-16 200038](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/d27fe69e-162b-4a68-9e4d-1ed21f7064ed)
 
+## RANDOM ACCESS PROCEDURE
+
 ![Screenshot 2023-11-16 200051](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/0ee09efd-0771-4040-82bb-04795475a222)
+
+## contention based random access
 
 ![Screenshot 2023-11-16 200107](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/ba6335d0-c59a-41d6-be17-c255487ef87d)
 
