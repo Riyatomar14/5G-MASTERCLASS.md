@@ -370,8 +370,6 @@ cell search : procedure by which a UE acquires time and freq synchrinization wit
 
 SIB 1 also called remaining MIB
 
-
-
 ![Screenshot 2023-11-16 200023](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/36672634-d417-43be-83e1-368b6b9940d4)
 
 ![Screenshot 2023-11-16 200038](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/d27fe69e-162b-4a68-9e4d-1ed21f7064ed)
