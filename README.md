@@ -278,6 +278,8 @@ Adpatation is also controlled by scheduler.
 
 ![Screenshot 2023-11-14 154015](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/6f47ed67-1b66-4dfd-82a3-e648cb0bfed4)
 
+## PHYSICAL LAYER STRUCTURE
+
 ![Screenshot 2023-11-14 154025](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/106874b8-e28f-4eb1-8c1e-9e2e889fe4d4)
 
 ![Screenshot 2023-11-14 154034](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/4f4bdf40-f79a-431b-a5b7-68a3803d616c)
