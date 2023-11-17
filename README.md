@@ -184,8 +184,16 @@ RRC (RADIO RESOURCE CONTROL) : (RRC gNodeB <==> RRC UE) responsible for RAN rela
 ~pcdp check out the packets are in sequence or not.(sequence in sequence out)
 
 ## RLC
+
 ![Screenshot 2023-11-14 152014](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/63d146cc-27a1-467f-81d1-0b81960831a7)
 
+![Screenshot 2023-11-17 103524](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/9c5a3456-1b61-42c9-8768-a8520995ef8e)
+
+~Transparent mode- In these cases the channels are already designed in such a way that there is no need for segmentation and retransmission.
+
+~Unacknoledged mode - When error free delivery is not required.
+
+~Acknowlaged mode- For web browsing , file transfer etc.
 
 ![Screenshot 2023-11-14 152042](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/d98a64c5-681e-4369-ac54-63a37a45db3d)
 
