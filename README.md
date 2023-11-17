@@ -140,21 +140,23 @@ RRC (RADIO RESOURCE CONTROL) : (RRC gNodeB <==> RRC UE) responsible for RAN rela
 
 ![Screenshot 2023-11-14 150810](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/e3512895-4db2-467e-8b9f-483b65f15493)
 
-## Uplink QoS
-~ Reflective mapping- When the device use same QoS flow and radio bearer as in downlink
-
-~ Explicit mapping- When the devie is configured to use specific QoS flow and uplink bearer using RRC signaling
+## MULTIPLEXING
 
 ![Screenshot 2023-11-14 150826](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/b6187612-9d85-46c5-9034-d6e2597b9dde)
 
-## PDCP(PACKET DATA CONVERGENCE PROTOCOL)
+
 
 ![Screenshot 2023-11-14 150710](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/3e9ec5c1-2d55-4c1e-a182-84ee39e57d36)
 
 ![Screenshot 2023-11-14 150844](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/219713f0-119d-4ecd-b7a7-9dca54da899f)
 
-![Screenshot 2023-11-14 151758](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/c288811e-6121-4b54-a504-d88686a5d0f6)
+## Uplink QoS
+~ Reflective mapping- When the device use same QoS flow and radio bearer as in downlink
 
+~ Explicit mapping- When the devie is configured to use specific QoS flow and uplink bearer using RRC signaling
+
+![Screenshot 2023-11-14 151758](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/c288811e-6121-4b54-a504-d88686a5d0f6)
+## PDCP(PACKET DATA CONVERGENCE PROTOCOL)
 ![Screenshot 2023-11-14 151839](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/3a5b2bf9-d7e4-4f06-9b19-d44d1dae48c0)
 
 ![Screenshot 2023-11-14 151851](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/0a452d19-401b-4757-99b6-a9ebf6be44a9)
