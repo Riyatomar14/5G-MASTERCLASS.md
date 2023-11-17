@@ -241,6 +241,12 @@ RRC (RADIO RESOURCE CONTROL) : (RRC gNodeB <==> RRC UE) responsible for RAN rela
 
 ![Screenshot 2023-11-14 153721](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/d7ebb5c4-2401-4b75-a5ad-4a337812057a)
 
+## SCHEDULER
+
+~The job of schedule is to determine which devides should use which time frqeuency and antenna resources.
+
+~Scheduler is a part of a MAC layer but it interacts with differnt layer in order to carry out differnt funcitons.
+
 ![Screenshot 2023-11-14 153748](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/8e3b4c86-3574-412f-a7dd-ae25ad42b5bb)
 
 ![Screenshot 2023-11-14 153757](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/a7d147a5-b8d5-4841-a02e-a197a39cb4aa)
