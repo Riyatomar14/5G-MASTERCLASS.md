@@ -80,15 +80,15 @@ TSG SA[SERIVICE AND SYSTEMS ASPECTS]: RESPONSIBLE FOR MULIMEDIA ASPECTS AND MANA
 
 ![Screenshot 2023-11-11 105130](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/f2f85339-b63c-4c2e-a7c8-615d5c7d6581)
 
-![Screenshot 2023-11-11 110651](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/c3757a8c-51f4-420d-b185-a198e06455eb)
-
 ![Screenshot 2023-11-11 110301](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/d1f4511b-5fd2-4d98-b573-fcc6d3d6f3d8)
+
+![Screenshot 2023-11-11 105153](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/d098232f-983c-46dd-91eb-96f9afc3038a)
 
 ## 5G NR
 
 **RAN PROTOCOL STACK**
 
-![Screenshot 2023-11-11 105153](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/d098232f-983c-46dd-91eb-96f9afc3038a)
+![Screenshot 2023-11-11 110651](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/c3757a8c-51f4-420d-b185-a198e06455eb)
 
 user plane protocol stack : supports carrying user data between different application in the UE and in the network.
 
