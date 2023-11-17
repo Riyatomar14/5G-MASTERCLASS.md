@@ -255,6 +255,9 @@ RRC (RADIO RESOURCE CONTROL) : (RRC gNodeB <==> RRC UE) responsible for RAN rela
 
 ![Screenshot 2023-11-14 153815](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/612f4ff9-d631-4329-8cf8-be4a89d645da)
 
+~ When there is huge data to be send the device can be scheduled to use larger bandwidth and after the work is done it can switch back to smaller bandwidth
+Adpatation is also controlled by scheduler.
+
 ![Screenshot 2023-11-14 153823](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/2cdf01f2-78fc-49fd-bb43-a0fb7af96d06)
 
 ![Screenshot 2023-11-14 153831](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/88253e55-640c-44b1-9aeb-8f4bb85541a5)
