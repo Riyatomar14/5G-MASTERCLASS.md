@@ -64,7 +64,7 @@ TSG SA[SERIVICE AND SYSTEMS ASPECTS]: RESPONSIBLE FOR MULIMEDIA ASPECTS AND MANA
 
 6.**UPF**:(user plane function)-carries the network user traffic. 
 
-***options to deploy 5g**
+**options to deploy 5g**
 
 ![Screenshot 2023-11-11 104925](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/1b084022-e151-4bb8-98e7-089105ca1fad)
 
@@ -84,11 +84,13 @@ TSG SA[SERIVICE AND SYSTEMS ASPECTS]: RESPONSIBLE FOR MULIMEDIA ASPECTS AND MANA
 
 ![Screenshot 2023-11-11 110301](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/d1f4511b-5fd2-4d98-b573-fcc6d3d6f3d8)
 
+## 5G NR
+
 **RAN PROTOCOL STACK**
 
 ![Screenshot 2023-11-11 105153](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/d098232f-983c-46dd-91eb-96f9afc3038a)
 
-user plane protocol stack : supports carrying user data between different application in the ue and in the network.
+user plane protocol stack : supports carrying user data between different application in the UE and in the network.
 
 control plane protocol stack : can be seen as carrying the control info between the UE and the gNodeB or the core networK.
 
