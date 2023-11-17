@@ -120,9 +120,7 @@ SDAP : Mapping the QoS bearer into the right radio bearer according to the QoS r
 
 NAS (NON-ACCESS STRATUM) : (core network <==> UE) authentication , security ,idle mode procedure.
 
-RRC (RADIO RESOURCE CONTROL) : (RRC gNodeB <==> RRC UE) responsible for RAN related control plane procedures like broadcasting systum info which helps the device learn the essential parameters of the cell , 
-
-responsible for setting up radio bearers.
+RRC (RADIO RESOURCE CONTROL) : (RRC gNodeB <==> RRC UE) responsible for RAN related control plane procedures like broadcasting systum info which helps the device learn the essential parameters of the cell ,responsible for setting up radio bearers.
 
 ![Screenshot 2023-11-14 150652](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/f15aee7f-78c9-4566-b279-3e9b8035c03d)
 
