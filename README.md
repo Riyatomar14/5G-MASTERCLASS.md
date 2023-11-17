@@ -306,8 +306,6 @@ Adpatation is also controlled by scheduler.
 
 ![Screenshot 2023-11-14 154252](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/c84d9e4a-261f-461d-9246-13432ecf1050)
 
-![Screenshot 2023-11-14 154303](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/a7d72ffd-c364-4cdd-83eb-eb8999974688)
-
 ## PHYSICAL LAYER STRUCTURE
 
 1.Radio frames-radio frames used in transferring the data (uplink/downlink) in the air. Its duration is 10 milliseconds.
@@ -326,11 +324,19 @@ note point-Formula to calculate, SCS = 15 x 2μ kHz(where μ = 0, 1, 2, 3, 4)
 
 6.Slot-It is divided into into 2 parts on the basis of number of OFDM. The number of OFDM Symbols varies with slot configuration, and the type of Cyclic.
 
+![Screenshot 2023-11-14 154303](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/a7d72ffd-c364-4cdd-83eb-eb8999974688)
+
 ![Screenshot 2023-11-14 154318](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/2c76889b-56d4-4f4f-acfc-38bc96c1cc33)
 
 ![Screenshot 2023-11-14 154326](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/b52e00e6-3e1a-460f-9ac6-9a8530613591)
 
 ![Screenshot 2023-11-14 154335](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/1145289f-0fc8-40d7-932f-70613deb312a)
+
+~ mini slots are shorter ver of slots.
+
+~ slot has 14 symbols ; mini slot has 2,4or 7 symbols.
+
+~ can begin in any symbol boundary instead of slot boundary.
 
 ![Screenshot 2023-11-14 154359](https://github.com/Riyatomar14/5G-MASTERCLASS.md/assets/143107173/1826b27c-76a5-414d-b2c6-7892f29c6d95)
 
